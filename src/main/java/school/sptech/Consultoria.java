@@ -55,6 +55,7 @@ public class Consultoria {
         } return false;
     }
 
+    //não entendo o erro
     public Double getTotalSalario(){
         Double totalSalConsultoria = 0.0;
         for (Desenvolvedor desenvolvedor : desenvolvedores){
